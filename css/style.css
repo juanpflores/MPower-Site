@@ -2225,6 +2225,13 @@ h3,
   padding-left: 18px;
   
 }
+.card{
+    text-align: center;
+}
+.card-img-top{
+    height: 100px;
+    width: 100px;
+}
 .form-contact .form-control:focus {
   outline: 0;
   box-shadow: none;
